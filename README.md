@@ -1,4 +1,4 @@
-# Authentication Aerver using Express and NodeJS
+# Authentication Server using Express and NodeJS
 
 Authentication server provides a network service that applications use to authenticate the credentials, here, I've considered user-email and password. Now, when a client submits a valid set of credentials, it receives a cryptographic ticket that it can subsequently use to access various services. Otherwise, the access will be denied.
 
